@@ -2,7 +2,7 @@
 * square board => rectangle board
 
 ### NQueen.js
-* Board can be filled with arbitrary configuration of Queen's
+* Board can be filled with arbitrary configuration of Queens
 * User can place cells `E` that must be empty
 
 ### Sudoku.js

@@ -116,7 +116,8 @@ class NQueen {
 const debug = true
 const columnsAlwaysFillsFromLeftToRight = false
 const findAllSolutions = false // NOT IMPLEMENTED
-// 'Q' means on this cell one can put the Queen
+// '.' means on this cell one can put the Queen
+// 'Q' means this cell already contains a Queen
 // 'E' means this cell must be empty
 
 function main () {
